@@ -1,0 +1,23 @@
+.text-image{
+  position: relative;
+  width: 500px;
+}
+.text-image img{
+ width: 100%;
+}
+.text-image p{
+  position: absolute;
+  top: 25%;
+  left:39%;
+  font-size: 50px;
+  color: #ffffff
+  }
+.about{
+  text-align: center;
+  padding: 20px;
+  
+}
+.blog-box{
+  float: left;
+  width: 33%
+}
